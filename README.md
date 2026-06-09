@@ -10,8 +10,9 @@ Combined a solid business understanding with technical QA methodologies to deliv
 ##  Technical Toolkit
 
 * **Testing Methodologies:** Manual Testing, Black Box Testing (BVA, EP), Functional, Security & UI/UX Validation.
-* **Test & Defect Management:** Jira, Trello, Zephyr, Notion, GitHub.
-* **API Testing & Database:** Postman, SQL.
+* **Test & Defect Management:** Jira, Trello, Zephyr, Xray.
+* **API Testing & Database:** Postman, MySQL.
+* **Automation Testing:** Selenium WebDriver-java, TestNG, Cucumber
 * **Languages:** Arabic (Native), German (Certified C1 - Goethe), English (Professional).
 
 ---
