@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Farag 
 
 ### Junior Software Tester & QA Engineer
-*Based in Cairo, Egypt* 📍
+*Cairo, Egypt* 📍
 
 Combined a solid business understanding with technical QA methodologies to deliver high-quality software, ensure data integrity, and enforce strict quality gates.
 
