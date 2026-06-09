@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Ahmed Farag 
 
-### 🚀 Junior Software Tester & QA Engineer
+### Junior Software Tester & QA Engineer
 *Based in Cairo, Egypt* 📍
 
 Combined a solid business understanding with technical QA methodologies to deliver high-quality software, ensure data integrity, and enforce strict quality gates.
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 * **Testing Methodologies:** Manual Testing, Black Box Testing (BVA, EP), Functional, Security & UI/UX Validation.
 * **Test & Defect Management:** Jira, Trello, Zephyr, Notion, GitHub.
@@ -16,7 +16,7 @@ Combined a solid business understanding with technical QA methodologies to deliv
 
 ---
 
-## 🧪 Featured QA Projects
+##  Featured QA Projects
 
 ### 1️⃣ [OrangeHRM Testing Project](https://github.com/Ahmed-Farag-QA/Orange-HRM-Manual-Testing-Project.git)
 
