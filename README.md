@@ -20,8 +20,8 @@ Combined a solid business understanding with technical QA methodologies to deliv
 
 ### 1️⃣ [OrangeHRM Testing Project](https://github.com/Ahmed-Farag-QA/Orange-HRM-Manual-Testing-Project.git)
 
-* **Description:** End-to-end manual testing for core HR workflows under the **DEPI (MCIT)** graduation program.
-* **Artifacts:** 89 Test Cases (BVA, EP), Bug Reports, and a Final Test Summary (Release Hold Decision).
+* **Description:** End-to-end manual testing for core HR workflows under the 
+* **Artifacts:** 85+ Test Cases (BVA, EP), Bug Reports, and a Final Test Summary (Release Hold Decision).
 
 ### 2️⃣ [Sauce Demo (Swag Labs) Testing Project](https://github.com/Ahmed-Farag-QA/Sauce-Demo-Project.git)
 
